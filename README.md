@@ -75,7 +75,9 @@ quant-research-lab
     └── asean-financial-volatility
 
 
-![Research Lab Architecture](https://raw.githubusercontent.com/Chi-Quant-Research/Chi-Quant-Research/main/Research_Lab_Map.png)
+### 🏗 Research Lab Architecture
+
+![Research Lab Architecture](Research_Lab_Map.png)
 
 
 **### 📌 Pinned Repositories**
