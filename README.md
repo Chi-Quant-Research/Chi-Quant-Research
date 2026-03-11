@@ -78,29 +78,26 @@ quant-research-lab
 
 ### Research Lab Architecture
 
-<img width="1536" height="1024" alt="research-lab-architecture" src="https://github.com/user-attachments/assets/957b5982-ba23-4d84-8055-fc9183eba0a5" />
-
+![Research Lab Architecture](https://github.com/user-attachments/assets/957b5982-ba23-4d84-8055-fc9183eba0a5)
 
 ---
 
 ### 📌 Pinned Repositories
 
-* **stock-return-prediction-ml**
-* **portfolio-optimization**
-* **asset-pricing-factor-model**
-* **value-at-risk-analysis**
-* **monte-carlo-stock-simulation**
-* **financial-ratio-analysis**
-* **australia-vet-completion-analysis**
-* **uk-apprenticeship-vet-analysis**
+* stock-return-prediction-ml
+* portfolio-optimization
+* asset-pricing-factor-model
+* value-at-risk-analysis
+* monte-carlo-stock-simulation
+* financial-ratio-analysis
+* australia-vet-completion-analysis
+* uk-apprenticeship-vet-analysis
 
 ---
 
---
+### 💡 Research Philosophy
 
-**### 💡 Research Philosophy**
-
-Financial markets and economic systems are complex, data-rich environments.
+Financial markets and economic systems are complex, data-rich environments.  
 Through rigorous quantitative analysis and transparent data pipelines, we can transform theoretical frameworks into practical, actionable insights.
 
 ---
@@ -109,8 +106,7 @@ Through rigorous quantitative analysis and transparent data pipelines, we can tr
 
 Open to collaboration in:
 
-Quantitative Finance
-Financial Data Science
-Applied Economic Research
-Economic Policy & Labour Economics
-
+- Quantitative Finance  
+- Financial Data Science  
+- Applied Economic Research  
+- Economic Policy & Labour Economics
