@@ -73,24 +73,32 @@ quant-research-lab
 │
 └── datasets
     └── asean-financial-volatility
-<img width="1536" height="1024" alt="research_lab_map" src="https://github.com/user-attachments/assets/ea929736-1289-46c6-8274-fd389b99b23f" />
+
+<img width="1536" height="1024" alt="research_lab_map" src="https://github.com/user-attachments/assets/e4d8633a-18d6-4fbe-8167-76b74677730b" />
+
+
 
 ---
-### Pinned Repositories
-stock-return-prediction-ml
-portfolio-optimization
-asset-pricing-factor-model
-value-at-risk-analysis
-monte-carlo-stock-simulation
-financial-ratio-analysis
-australia-vet-completion-analysis
-uk-apprenticeship-vet-analysis
+
+### 📌 Pinned Repositories
+* **stock-return-prediction-ml**
+* **portfolio-optimization**
+* **asset-pricing-factor-model**
+* **value-at-risk-analysis**
+* **monte-carlo-stock-simulation**
+* **financial-ratio-analysis**
+* **australia-vet-completion-analysis**
+* **uk-apprenticeship-vet-analysis**
+
 ---
-### Research Philosophy
+
+### 💡 Research Philosophy
 
 Financial markets and economic systems are complex, data-rich environments.
 Through rigorous quantitative analysis and transparent data pipelines, we can transform theoretical frameworks into practical, actionable insights.
+
 ---
+
 ### Collaboration
 
 Open to collaboration in:
