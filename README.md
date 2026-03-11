@@ -77,8 +77,9 @@ quant-research-lab
 
 ![Research Lab Architecture](Research_Lab_Map.png)
 
+---
 
-**### 📌 Pinned Repositories**
+### 📌 Pinned Repositories
 
 * **stock-return-prediction-ml**
 * **portfolio-optimization**
@@ -88,6 +89,8 @@ quant-research-lab
 * **financial-ratio-analysis**
 * **australia-vet-completion-analysis**
 * **uk-apprenticeship-vet-analysis**
+
+---
 
 --
 
