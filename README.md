@@ -77,7 +77,7 @@ quant-research-lab
 
 (để một dòng trống ở đây)
 
-![Research Lab Architecture](Research_Lab_Map.png)
+![Research Lab Architecture](https://github.com/Chi-Quant-Research/Chi-Quant-Research/blob/main/Research_Lab_Map.png)
 
 (để một dòng trống ở đây)
 ---
