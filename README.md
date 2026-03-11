@@ -75,13 +75,23 @@ quant-research-lab
     └── asean-financial-volatility
 
 
-(để một dòng trống ở đây)
-
-![Research Lab Architecture](https://github.com/Chi-Quant-Research/Chi-Quant-Research/blob/main/Research_Lab_Map.png)
-
-(để một dòng trống ở đây)
+![Research Lab Architecture](https://github.com/Chi-Quant-Research/Chi-Quant-Research/raw/main/Research_Lab_Map.png)
 ---
 
+---
+
+### 📌 Pinned Repositories
+
+* **stock-return-prediction-ml**
+* **portfolio-optimization**
+* **asset-pricing-factor-model**
+* **value-at-risk-analysis**
+* **monte-carlo-stock-simulation**
+* **financial-ratio-analysis**
+* **australia-vet-completion-analysis**
+* **uk-apprenticeship-vet-analysis**
+
+---
 ### 📌 Pinned Repositories
 * **stock-return-prediction-ml**
 * **portfolio-optimization**
