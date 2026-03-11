@@ -75,14 +75,10 @@ quant-research-lab
     └── asean-financial-volatility
 
 
-### 🏗 Research Lab Architecture
-
-
 ![Research Lab Architecture](Research_Lab_Map.png)
 
 
 **### 📌 Pinned Repositories**
-
 
 * **stock-return-prediction-ml**
 * **portfolio-optimization**
