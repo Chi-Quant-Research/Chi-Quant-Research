@@ -78,7 +78,8 @@ quant-research-lab
 
 ### Research Lab Architecture
 
-![Research Lab Architecture](https://raw.githubusercontent.com/USERNAME/REPO/main/research-lab-architecture.png)
+<img width="1536" height="1024" alt="research-lab-architecture" src="https://github.com/user-attachments/assets/957b5982-ba23-4d84-8055-fc9183eba0a5" />
+
 
 ---
 
