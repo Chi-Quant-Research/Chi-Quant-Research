@@ -75,9 +75,10 @@ quant-research-lab
     └── asean-financial-volatility
 
 
+
 ### Research Lab Architecture
 
-![Research Lab Architecture](research-lab-architecture.png)
+![Research Lab Architecture](https://raw.githubusercontent.com/USERNAME/REPO/main/research-lab-architecture.png)
 
 ---
 
