@@ -73,6 +73,8 @@ quant-research-lab
 │
 └── datasets
     └── asean-financial-volatility
+<img width="1536" height="1024" alt="research_lab_map" src="https://github.com/user-attachments/assets/ea929736-1289-46c6-8274-fd389b99b23f" />
+
 ---
 ### Pinned Repositories
 stock-return-prediction-ml
@@ -97,6 +99,4 @@ Quantitative Finance
 Financial Data Science
 Applied Economic Research
 Economic Policy & Labour Economics
-<p align="center">
-  <img src="research-lab-map.png" alt="Research Lab Architecture" width="900">
-</p>
+
