@@ -75,15 +75,10 @@ quant-research-lab
     └── asean-financial-volatility
 
 
-<p align="center">
-  <img src="https://github.com/Chi-Quant-Research/Chi-Quant-Research/raw/main/Research_Lab_Map.png" width="1000">
-</p>
+![Research Lab Architecture](https://raw.githubusercontent.com/Chi-Quant-Research/Chi-Quant-Research/main/Research_Lab_Map.png)
 
 
----
-
-
-### 📌 Pinned Repositories
+**### 📌 Pinned Repositories**
 
 
 * **stock-return-prediction-ml**
@@ -97,7 +92,7 @@ quant-research-lab
 
 --
 
-### 💡 Research Philosophy
+**### 💡 Research Philosophy**
 
 Financial markets and economic systems are complex, data-rich environments.
 Through rigorous quantitative analysis and transparent data pipelines, we can transform theoretical frameworks into practical, actionable insights.
