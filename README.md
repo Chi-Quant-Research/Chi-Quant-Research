@@ -77,7 +77,9 @@ quant-research-lab
 
 <img width="1536" height="1024" alt="map" src="https://github.com/user-attachments/assets/9222eb77-adcd-4ff7-9810-da8d6f119183" />
 
-
+<p align="center">
+  <img src="Research_Lab_Map.png" width="1000">
+</p>
 
 ---
 
