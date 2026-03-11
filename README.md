@@ -97,3 +97,6 @@ Quantitative Finance
 Financial Data Science
 Applied Economic Research
 Economic Policy & Labour Economics
+<p align="center">
+  <img src="research-lab-map.png" alt="Research Lab Architecture" width="900">
+</p>
