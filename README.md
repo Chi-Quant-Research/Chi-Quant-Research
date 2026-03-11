@@ -74,7 +74,8 @@ quant-research-lab
 └── datasets
     └── asean-financial-volatility
 
-<img width="1536" height="1024" alt="research_lab_map" src="https://github.com/user-attachments/assets/e4d8633a-18d6-4fbe-8167-76b74677730b" />
+
+<img width="1536" height="1024" alt="map" src="https://github.com/user-attachments/assets/9222eb77-adcd-4ff7-9810-da8d6f119183" />
 
 
 
