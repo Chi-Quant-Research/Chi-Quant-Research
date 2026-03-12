@@ -1,4 +1,4 @@
-# Chi Nguyen | Quantitative Finance & Economic Research 🇱🇻 🇦🇺
+# Chi Nguyen | Quantitative Finance & Economic - Research Targeting: UK (Manchester, Leeds, Shefield) & EU (Latvia, Poland) | Quant Finance Researcher
 
 Financial analyst and quantitative researcher working at the intersection of **financial markets**, **data science**, and **applied economic research**. I build reproducible financial models, empirical datasets, and research pipelines using modern quantitative tools.
 
@@ -13,6 +13,7 @@ This GitHub portfolio functions as a **Quantitative Finance & Economic Research 
 ### 🛠 Technical Stack & Methods
 * **Tools:** Python (Pandas, NumPy, Scikit-learn, Statsmodels), SQL, Jupyter Notebook.
 * **Methods:** Financial Econometrics, Machine Learning, Time Series Analysis, Statistical Modeling.
+* Languages: English (Professional), Vietnamese (Native).
 
 ---
 
