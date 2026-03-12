@@ -1,6 +1,31 @@
 # Chi Nguyen | Quantitative Finance & Economic - Research Targeting: UK (Manchester, Leeds, Shefield) & EU (Latvia, Poland) | Quant Finance Researcher
 
-Financial analyst and quantitative researcher working at the intersection of **financial markets**, **data science**, and **applied economic research**. I build reproducible financial models, empirical datasets, and research pipelines using modern quantitative tools.
+Chi Nguyen | Quantitative Finance & Econometrics Research
+
+I am a quantitative finance and econometrics researcher building reproducible financial models, empirical datasets, and causal inference pipelines for applied research and policy analysis. 
+🔬 Research Lab | 📊 Quant Finance | ⚖️ Policy & Econometrics
+
+
+## Selected Research Projects
+
+• **Portfolio Optimization**
+Implementation of Modern Portfolio Theory to construct efficient
+portfolios under risk-return constraints.
+
+• **Value-at-Risk (VaR) Risk Analysis**
+Financial risk modelling using historical simulation and
+parametric VaR methods.
+
+• **Stock Return Prediction (Machine Learning)**
+Predictive modelling of equity returns using Random Forest
+and financial indicators.
+
+• **Fama-French Asset Pricing Model**
+Empirical factor analysis estimating market, size, and value exposures.
+
+• **Difference-in-Differences Policy Evaluation**
+Causal inference framework applied to policy impact evaluation
+using panel data.
 
 ---
 
@@ -48,7 +73,8 @@ Risk modeling for financial portfolios using historical and parametric methods.
 ### 🎓 PhD Research Pipeline
 * **Green Finance:** Quantitative assessment of carbon taxation effects on corporate financial performance.
 * **Fiscal Risk in Public Systems:** Efficiency of funding and economic outcomes in education systems.
-* **Labour Economics:** Empirical research on apprenticeship programs and labour market transitions.
+* **Emperical Labour Economics:** Empirical research on apprenticeship programs and labour market transitions.
+* **Emperical asset pricing**
 
 ---
 
