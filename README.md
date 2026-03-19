@@ -1,139 +1,75 @@
-# Chi Nguyen | Quantitative Finance & Economic - Research Targeting: UK (Manchester, Leeds, Shefield) & EU (Latvia, Poland) | Quant Finance Researcher
+# Chi Nguyen | Data & Analytics Portfolio - Remote Canada
 
-Chi Nguyen | Quantitative Finance & Econometrics Research
-
-I am a quantitative finance and econometrics researcher building reproducible financial models, empirical datasets, and causal inference pipelines for applied research and policy analysis. 
-🔬 Research Lab | 📊 Quant Finance | ⚖️ Policy & Econometrics
-
-
-## Selected Research Projects
-
-• **Portfolio Optimization**
-Implementation of Modern Portfolio Theory to construct efficient
-portfolios under risk-return constraints.
-
-• **Value-at-Risk (VaR) Risk Analysis**
-Financial risk modelling using historical simulation and
-parametric VaR methods.
-
-• **Stock Return Prediction (Machine Learning)**
-Predictive modelling of equity returns using Random Forest
-and financial indicators.
-
-• **Fama-French Asset Pricing Model**
-Empirical factor analysis estimating market, size, and value exposures.
-
-• **Difference-in-Differences Policy Evaluation**
-Causal inference framework applied to policy impact evaluation
-using panel data.
+Aspiring Data Analyst with 20+ years of quantitative modeling, financial & economic analysis experience.  
+Skilled in Python, SQL, Excel, and data visualization, delivering actionable insights for business and policy.  
 
 ---
 
-### 🔬 Research Lab Focus
-This GitHub portfolio functions as a **Quantitative Finance & Economic Research Lab**, covering:
-* **Quantitative Finance:** Equity market signals and stochastic modeling.
-* **Financial Risk Modeling:** Portfolio risk metrics and simulation.
-* **Applied Economic Data Research:** Labour economics and VET sector efficiency.
+## 🔹 Key Skills
 
-### 🛠 Technical Stack & Methods
-* **Tools:** Python (Pandas, NumPy, Scikit-learn, Statsmodels), SQL, Jupyter Notebook.
-* **Methods:** Financial Econometrics, Machine Learning, Time Series Analysis, Statistical Modeling.
-* Languages: English (Professional), Vietnamese (Native).
+- **Data Analysis & Modeling:** Python (pandas, numpy, scikit-learn), SQL, Excel, Power BI, Tableau  
+- **Machine Learning:** Logistic Regression, Predictive Modeling, Churn Analysis, Time Series Forecasting  
+- **Business Insight:** Customer Retention, Sales Analysis, KPI Dashboards, Reporting  
+- **Research & Quantitative Methods:** Econometrics, Statistical Analysis, Causal Inference  
 
 ---
 
-### 📈 Quantitative Finance Research
+## 🔹 Selected Projects
 
-#### 🤖 Stock Return Prediction (Machine Learning)
-Machine learning models evaluating predictive signals in equity markets using historical financial indicators.
+**1. Customer Churn Analysis (Python + SQL + BI Dashboard)**  
+- Built predictive churn model on 1,000+ customer dataset  
+- Analyzed key drivers: tenure, usage frequency, support tickets, spending  
+- Delivered actionable recommendations to improve retention  
+- Repository: `[GitHub Link]`
 
-#### ⚖️ Portfolio Optimization
-Implementation of Modern Portfolio Theory to construct efficient portfolios under risk-return constraints.
+**2. Sales Analytics Dashboard**  
+- Analyzed revenue, top customers, product trends  
+- Created dashboard for KPI tracking & management decision-making
 
-#### 📊 Asset Pricing Models
-Empirical implementation of CAPM and multi-factor asset pricing models.
-
-#### 🎲 Monte Carlo Stock Simulation
-Simulation of stock price dynamics using stochastic processes.
-
-#### 🛡️ Value at Risk (VaR) Analysis
-Risk modeling for financial portfolios using historical and parametric methods.
+**3. Financial Modeling & Quant Analytics** *(optional for PhD/finance background)*  
+- Portfolio Optimization, Value-at-Risk, Asset Pricing, Monte Carlo simulations  
 
 ---
 
-### 📂 Financial Data Infrastructure & Applied Research
+## 🔹 Technical Stack
 
-* **Financial Ratio Analysis:** Automated pipeline for fundamental analysis of corporate financial statements.
-* **ASEAN Financial Market Dataset:** 20-year dataset exploring volatility patterns and macro-financial dynamics.
-* **Australia VET Completion Rate Analysis:** Empirical analysis of funding efficiency and labour market outcomes.
-* **UK Apprenticeship / VET Sector Analysis:** Data-driven research on earnings returns and policy implications.
-
----
-
-### 🎓 PhD Research Pipeline
-* **Green Finance:** Quantitative assessment of carbon taxation effects on corporate financial performance.
-* **Fiscal Risk in Public Systems:** Efficiency of funding and economic outcomes in education systems.
-* **Emperical Labour Economics:** Empirical research on apprenticeship programs and labour market transitions.
-* **Emperical asset pricing**
+- **Languages:** Python, SQL, R (optional), Excel  
+- **Tools:** Jupyter Notebook, Power BI, Tableau, SPSS, MATLAB  
+- **Methods:** Statistical Modeling, Machine Learning, Predictive Analytics, Data Visualization  
 
 ---
 
-### 🏗 Research Architecture
-```text
-quant-research-lab
-│
-├── financial-models
-│   ├── asset-pricing-factor-model
-│   ├── portfolio-optimization
-│   ├── value-at-risk-analysis
-│   └── monte-carlo-stock-simulation
-│
-├── machine-learning-finance
-│   └── stock-return-prediction-ml
-│
-├── financial-data-analysis
-│   └── financial-ratio-analysis
-│
-├── economic-data-research
-│   ├── australia-vet-completion-analysis
-│   └── uk-apprenticeship-vet-analysis
-│
-└── datasets
-    └── asean-financial-volatility
+## 🔹 Research & Applied Analytics
 
-
-
-### Research Lab Architecture
-
-![Research Lab Architecture](https://github.com/user-attachments/assets/957b5982-ba23-4d84-8055-fc9183eba0a5)
+- Customer Behavior & Retention Analytics  
+- Sales / Revenue Forecasting & KPI Dashboards  
+- Financial & Economic Modelling  
 
 ---
 
-### 📌 Pinned Repositories
+## 📌 Pinned Repositories
 
-* stock-return-prediction-ml
-* portfolio-optimization
-* asset-pricing-factor-model
-* value-at-risk-analysis
-* monte-carlo-stock-simulation
-* financial-ratio-analysis
-* australia-vet-completion-analysis
-* uk-apprenticeship-vet-analysis
+- churn-analysis  
+- sales-dashboard-analysis  
+- portfolio-optimization  
+- value-at-risk-analysis  
+- stock-return-prediction-ml  
 
----
-
-### 💡 Research Philosophy
-
-Financial markets and economic systems are complex, data-rich environments.  
-Through rigorous quantitative analysis and transparent data pipelines, we can transform theoretical frameworks into practical, actionable insights.
+> Each repo includes **full code, datasets, and business insights**. Ready for practical application in remote Data Analyst roles.  
 
 ---
 
-### Collaboration
+## 💡 Philosophy
 
-Open to collaboration in:
+Transforming quantitative models into actionable business insights using reproducible, transparent, and scalable analytics pipelines.
 
-- Quantitative Finance  
-- Financial Data Science  
-- Applied Economic Research  
-- Economic Policy & Labour Economics
+---
+
+## 🤝 Collaboration
+
+Open to remote opportunities in:
+
+- Data & Business Analytics  
+- Customer & Sales Analysis  
+- Financial & Quantitative Modelling  
+- Policy & Economic Data Analysis
