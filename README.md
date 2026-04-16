@@ -1,16 +1,17 @@
-# Chi Nguyen | Data & Analytics Portfolio
-
-Aspiring Data Analyst with 20+ years of quantitative modeling, financial & economic analysis experience.  
-Skilled in Python, SQL, Excel, and data visualization, delivering actionable insights for business and policy.  
+# Chi Nguyen | Finance Educator & Quantitative Researcher
+Senior Lecturer in Applied Finance | Financial Modelling Specialist
+🔹 **20+ years** of excellence in teaching Financial Management (UK, Aus, & US curricula).
+🔹 **Quantitative Finance:** Expert in Python-based modeling (Black-Scholes, Monte Carlo, Portfolio Optimization).
+🔹 **Curriculum Design:** Specialized in BTEC, IGCSE, and Cambridge Financial Pathways.
+🔹 **Publications:** Extensive research in Cash Budgeting, DCF Valuation, and Fintech.
 
 ---
 
 ## 🔹 Key Skills
 
-- **Data Analysis & Modeling:** Python (pandas, numpy, scikit-learn), SQL, Excel, Power BI, Tableau  
-- **Machine Learning:** Logistic Regression, Predictive Modeling, Churn Analysis, Time Series Forecasting  
-- **Business Insight:** Customer Retention, Sales Analysis, KPI Dashboards, Reporting  
-- **Research & Quantitative Methods:** Econometrics, Statistical Analysis, Causal Inference  
+- **Financial Education:** Curriculum Development, Academic Mentoring, IELTS Training (Academic Focus).
+- **Data Analysis & Modeling:** Python (pandas, numpy, scikit-learn), SQL, Excel, Power BI, Tableau.
+- **EdTech:** Manim (Mathematical Animations), Jupyter Notebooks, Google Colab.
 
 ---
 
