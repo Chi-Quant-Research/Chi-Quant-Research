@@ -1,4 +1,4 @@
-# Chi Nguyen | Data & Analytics Portfolio - Remote Canada
+# Chi Nguyen | Data & Analytics Portfolio
 
 Aspiring Data Analyst with 20+ years of quantitative modeling, financial & economic analysis experience.  
 Skilled in Python, SQL, Excel, and data visualization, delivering actionable insights for business and policy.  
